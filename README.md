@@ -1,29 +1,24 @@
-# <a href="https://ashy-forest-0978d2910.azurestaticapps.net/index.html">E-Commerce Website with FAQ Bot</a>
+# <a href="https://lemon-island-00117ff10.1.azurestaticapps.net/">BLOG Websitet</a>
 
 This is 10 Page E-commerce Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
-IDE: VS-Code
 
-Note: Bot is deployed on contact page
 
 ### Industry :
 Lifestyle
 
 
 ### Project Title :
-fashion site 
-
+blog site
 
 ### Problem Statement/Opportunity :
-An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. 
+An blog site company wants to build a sample Front End prototype website for their business as the online network industry has been growing at an incredible rate, and so have grown challenges. To build a whole website they have chosen Azure Cloud Platform. 
 
 
 ### Project Description :
-Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ Bot for a business company with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype an e-commerce site is to sell goods online with solving problems of customer speedily via FAQ Bot .
-
-
+Core Idea of Project is to build an sample prototype Blog Website with the help of Gatby Js. The business-to-consumer aspect of product  (blog) is the most visible business use of the World Wide Web. The primary goal of sample prototype an blog site is to provide contents online with solving problems of customer solution.
 ### Primary Azure Technology :
 Static Web Apps
 
