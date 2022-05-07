@@ -1,6 +1,6 @@
-# <a href="https://lemon-island-00117ff10.1.azurestaticapps.net/">BLOG Websitet</a>
+# <a href="https://lemon-island-00117ff10.1.azurestaticapps.net/">Blog Website</a>
 
-This is 10 Page E-commerce Front End website design
+This is 1 Page Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
